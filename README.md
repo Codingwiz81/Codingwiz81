@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Software Engineering including Python in order to start a career in tehcnology.
+- 🌱 I’m currently learning Software Engineering including Python in order to start a career in technology.
 
 <!--
 **Codingwiz81/Codingwiz81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
